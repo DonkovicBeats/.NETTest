@@ -1,0 +1,15 @@
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\bin\Debug\net10.0\ErsteDotNETApp.exe
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\bin\Debug\net10.0\ErsteDotNETApp.deps.json
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\bin\Debug\net10.0\ErsteDotNETApp.runtimeconfig.json
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\bin\Debug\net10.0\ErsteDotNETApp.dll
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\bin\Debug\net10.0\ErsteDotNETApp.pdb
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\obj\Debug\net10.0\ErsteDotNETApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\obj\Debug\net10.0\ErsteDotNETApp.AssemblyInfoInputs.cache
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\obj\Debug\net10.0\ErsteDotNETApp.AssemblyInfo.cs
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\obj\Debug\net10.0\ErsteDotNETApp.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\obj\Debug\net10.0\ErsteDotNETApp.sourcelink.json
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\obj\Debug\net10.0\ErsteDotNETApp.dll
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\obj\Debug\net10.0\refint\ErsteDotNETApp.dll
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\obj\Debug\net10.0\ErsteDotNETApp.pdb
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\obj\Debug\net10.0\ErsteDotNETApp.genruntimeconfig.cache
+C:\Users\elias\OneDrive\nichtUni\Desktop\Kreativ\Programmieren\dotnet\ErsteDotNETApp\obj\Debug\net10.0\ref\ErsteDotNETApp.dll
