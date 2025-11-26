@@ -8,6 +8,7 @@ Console.Clear();
 
 
 System.Console.WriteLine("+++++++Start 1+++++++");
+
 for (int i = 0; i < HEIGHT; i++)
 {
 
@@ -23,6 +24,10 @@ for (int i = 0; i < HEIGHT; i++)
 
 
 }
+
+
+
+
 
 
 System.Console.WriteLine("+++++++End+++++++");
