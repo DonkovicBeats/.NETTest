@@ -1,12 +1,10 @@
 ﻿namespace ErsteDotNETApp;
 
-public class Person
+public class Person : Animal
 {
-    private int height;
-
     public int Height
     {
-        get => height;
+        get;
         set
         {
             if (value < 0)
@@ -15,15 +13,51 @@ public class Person
             }
             else
             {
-                height = value;
+                field = value;
             }
         }
     }
 
-    public Person(int height)
+    public string? Name
     {
-        Height = height;
-        Console.WriteLine($"Person with Height of: {Height}cm initialized.");
+        get;
+        set
+        {
+            if (value is null)
+                throw new NullReferenceException();
+            
+            else
+            {
+                field = value;
+            }
+        }
     }
-   
+
+    public Person(string name)
+    {
+        Console.WriteLine("Größe: ");
+        
+        while (true)
+        {
+            
+            string? input = Console.ReadLine();
+            if (int.TryParse(input, out int result))
+            {
+                Height = result;
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Ungültige Eingabe.");
+                throw new ArgumentException();
+            }
+
+            
+        }
+
+        Console.WriteLine($"Person with Height of: {Height}cm initialized.");
+        Heartbeat();
+    }
+
+
 }

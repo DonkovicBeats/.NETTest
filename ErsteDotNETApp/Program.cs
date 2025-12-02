@@ -8,15 +8,18 @@ char[,] board = new char[WIDTH, HEIGHT];
 
 Console.Clear();
 
-try
+/*try
 {
-    Person ps = new Person(140);
-    Person ps3 = new Person(178);
+    Person ps = new Person("Barry");
 }
 catch (ArgumentOutOfRangeException e)
 {
     Console.WriteLine("Person is too young!");
-} 
+}
+catch (ArgumentException e)
+{
+    Console.WriteLine("Person could not be initialized!");
+}*/
 
 
 /*System.Console.WriteLine("+++++++Start 1+++++++");
